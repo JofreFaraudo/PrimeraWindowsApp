@@ -1,0 +1,4 @@
+﻿  ProvaForms.cpp
+c:\users\pc\documents\jofre_projecte-codelearn\windowsapp\provaforms\provaforms\provaforms.cpp(174): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+ProvaForms.obj : error LNK2019: unresolved external symbol __imp_ImageList_Create referenced in function "struct HWND__ * __cdecl CreateSimpleToolbar(struct HWND__ *)" (?CreateSimpleToolbar@@YAPEAUHWND__@@PEAU1@@Z)
+C:\Users\Pc\Documents\Jofre_Projecte-Codelearn\WindowsApp\ProvaForms\x64\Debug\ProvaForms.exe : fatal error LNK1120: 1 unresolved externals
